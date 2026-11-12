@@ -1,0 +1,12 @@
+nama = input("Nama  :")
+kelas = input("Kelas  :")
+umur = int(input("Umur  :"))
+jurusan = input("Jurusan  :")
+hobi = input("Hobi  :")
+
+print("===== MY PROFILE =====")
+print("Nama  :",nama)
+print("kelas  :",kelas)
+print("Umur  :",umur)
+print("Jurusan  :",jurusan)
+print("Hobi  :",hobi)
